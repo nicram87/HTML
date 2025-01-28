@@ -1,0 +1,12 @@
+<!doctype html>
+	<html lang="de">
+		<head>
+			<abbr title="Definition">dfn</abbr>
+		</head>
+		<body>
+			<p>Ein <dfn>Smartphone</dfn> hat im Gegensatz zu
+			einem Mobiltelefon (umgangsprachlich auch Handy)
+			mehr Computerfunktionalität und -konnektivität.
+			</p>
+		</body>
+	</html>

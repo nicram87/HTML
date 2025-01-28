@@ -1,0 +1,13 @@
+<!doctype html>
+	<html lang="de">
+		<head>
+			<title>Time</title>
+				<meta charset="UTF-8">
+		</head>
+		<body>
+			<h1>Mein Geburtstag</h1>
+			<p>Wir trafen uns an meinem<time datetime="2016-11-12">
+			40 Geburtstag</time>bei<em>Bär</em>
+			<time datetime="20:00">um 8 Uhr am Abend.</time>
+		</body>
+	</html>

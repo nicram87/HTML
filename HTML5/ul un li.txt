@@ -1,0 +1,18 @@
+<!doctype html>
+	<html lang="de">
+	<head>
+		<title>ul und li</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<article>
+		<h2>Ungeordnete Aufzaehlunsliste mit ul</h2>
+			<ul>
+				<li>Lorem durum ipsum sit amet</li>
+				<li>Donec quam felis utricies</li>
+				<li>Nulla consequat massa quis</li>
+				<li>Donec vitae sapien ut libero</li>
+			</ul>
+		</article>
+	</body>
+	</html>

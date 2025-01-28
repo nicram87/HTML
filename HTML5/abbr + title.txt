@@ -1,0 +1,10 @@
+<!doctype html>
+	<html lang="de">
+		<head>
+			<p>Das<abbr title="World Wide Web">www</abbr> ist voller
+			Abkürzungen.
+			</p>
+		</head>
+		<body>
+		</body>
+	</html>

@@ -1,0 +1,17 @@
+<!doctype html>
+	<html lang="de">
+		<head>
+			<title>Absaetze mit "p"</title>
+			<meta charset="UTF-8">
+		</head>
+		<body>
+			<h2>News zu HTML</h2>
+		<article>
+			<h3>Ein Ausblick auf HTML5</h3>
+			<p> Lorem ipsum dolor sit amet, consectueter adispicig elit. Aenan commodo liguala eget dolor.
+			Anean masse.Cum sociis natoque penatibus et magnis dis parturient</p>
+			<p>Nullam distum felis eu pede mollis pretium. Integer 
+			tincident. Cras daphibus</p>
+		</article>
+		</body>
+	</html>

@@ -1,0 +1,12 @@
+<!doctype html>
+	<html lang="de">
+		<head>
+			<title>Celsius</title>
+			<meta charset="UTF-8">
+		</head>
+		<body>
+			<p>Aktuelle Temperatur <span id="temp">18<°C</p>
+			<p>Formatierung mit <span id="text-decoration:overline;">
+				CSS</span> und dem Span element.</p>
+		</body>
+	</html>

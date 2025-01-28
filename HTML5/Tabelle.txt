@@ -1,0 +1,31 @@
+<!doctype html>
+	<html lang="de">
+		<head>
+			<title>Tabelle</title>
+			<h2>Einfache Tabellenstruktur</h2>
+		</head>
+		<body>
+			<table>
+				<tr>
+					<th>Browser</th>
+					<th>Zugriffe</th>
+					<th>Prozent</th>
+				</tr>
+				<tr>
+					<td>Chrome</td>
+					<td>14478</td>
+					<td>59,6%</td>
+				</tr>
+				<tr>
+					<td>Firefox</td>
+					<td>3499</td>
+					<td>14,4%</td>
+				</tr>
+				<tr>
+					<td>Safari</td>
+					<td>1619</td>
+					<td>6,6%</td>
+				</tr>
+			</table>
+		</body>
+	</html>

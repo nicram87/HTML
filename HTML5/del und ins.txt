@@ -1,0 +1,15 @@
+<!doctype html>
+	<html lang="de">
+		<head>
+			<abbr title="del ins">Änderungen markieren mit del und ins</abbr>
+			<meta charset="UTF-8">
+		</head>
+		<body>
+			<del>
+				<p>Der Sänger tritt am 01.01.2017 im Konzertsaal auf!</p>
+			</del>
+			<ins>
+				<p>Das Konzert findet nicht statt, da der Sänger erktankt ist</p>
+			</ins>
+		</body>
+	</html>

@@ -1,0 +1,21 @@
+<!doctype html>
+	<html lang="de">
+		<head>
+			<title>Text mit mark</title>
+			<meta charset="UTF-8">
+		</head>
+		<body>
+			<h1>Text markieren mit mark</h1>
+				<p>Im Jahr 2016 haben sich die Gewinne um 
+				<mark>100 Prozent</mark> erhöht.
+				</p>
+				<p>Hier ein Quellencodeauschnitt eines C-Programms:</p>
+				<pre><code>#include &alt;stdio.h&gt;
+				
+		int main(void)
+		{
+			<mark>puts("Hallo Welt!");</mark>
+			return 0;
+		}</code></pre>
+		</body>
+	</html>

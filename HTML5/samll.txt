@@ -1,0 +1,19 @@
+<!doctype html>
+	<html lang="de">
+		<head>
+			<title abbr="small">Das kleingedruckte mit small</title>
+			<meta charset="UTF=8">
+		</head>
+		<body>
+			<article>
+				<header>
+					<h2>Kleingedrucktes mit small</h2>
+					<small>&copy; Max Mustermann;
+					<time datetime="2017-01-01">1. Januar 2017</time></small>
+				</header>
+					<p>Die Sendung kann in<time datetime="P2D">2 Tagen</time>
+					zugestellt werden.<small>(Augrund starker Nachfrage, kann es acuh länger (+1 Tag) dauern.)</small>
+					</p>
+			</article>
+		</body>
+	</html>

@@ -1,0 +1,45 @@
+<!doctype html>
+	<html lang="de">
+		<head>
+			<title>generische Strukturierung mit dev</title>
+			<meta charset="UTF-8>
+		</head>
+		<body>
+		<header>
+		<h1>Mein Blog</h1>
+		<p>Ein Blog mit leckerem Rezepte</p>
+		</header>
+		<nav>
+		<p>Navigation:
+			<a href="#">Blog</a>	|
+			<a href="#">Rezepte</a>	|
+			<a href="#">Über mich</a>	|
+			<a href="#">Impressum</a>	|
+		</p>
+		</nav>
+		<aside>
+			<h2>Alte Posts</h2>
+				<ul>
+					<li><a href="#">Letzte Woche</a></li>
+					<li><a href="#">Archiv</a></li>
+				</ul>
+				<aside>
+				<article>
+			<h2>Leckere Vanillesoße selbst gemacht</h2>
+			<p> Heute will ich euch zeigen, wie man eine leckere Vanillesoße im Handumdrehen selber herstellen könnt...</p>
+			<h3>Ähnliche Rezepte</h3>
+			<ul>
+				<li><a href="#">Schokoladensoße aus Kakao</a></li>
+				<li>a href="#">Vanillenpudding leicht gemacht</a></li>
+				<article>
+			</ul>
+			<footer>
+				<p>
+					<a href="#">Kontakt</a>	|
+					<a href="#">FAQ</a>	|
+					<a href="#">Über mich</a>	|
+					<a href="#">Impressum</a>	|
+				</p>
+			</footer>
+		</body>
+	</html>

@@ -1,0 +1,20 @@
+<!doctype html>
+	<html lang="de">
+	<head>
+		<title>figure und figurecaption</title>
+	<meta charset="UTF-8">
+	</head>
+	<body>
+		<h2>HTML 5</h2>
+		<article>
+			<h3>figure und figcaption</h3>
+			<p>Der Text von figure...</p>
+		<figure>
+		<img src="opera.jpg" alt="Chinesische Oper" />
+		<figcaption>Abbildung 1: Es wae einmal...</figcaption>
+		</figure>
+		<p>der Text nach figure</p>
+		</article>
+	</body>
+	</html>
+		
