@@ -1,0 +1,26 @@
+<!doctype html>
+	<html lang="de">
+		<head>
+		<title> Aside</title>
+		</head>
+		<body>
+			<h1>Mein Blog</h1>
+			<p>neuste Berichte zu HTML</p>
+		<article>
+			<header>HTML 5.1 in Sicht</header>
+			<p>veroeffentlicht am <time>2016-05-06</time></p>
+			<p>wie bereits vermutet</p>
+		<aside>
+			<h3>Weiterfuehrende Links</h3>
+			<ul>
+			<li><a href="#">Website A</a></li>
+			<li><a href="#">Website B</a></li>
+			<li><a href="#">Website C</a></li>
+			</ul>
+		</aside>
+		<footer>
+			<a href="kommentare.html">Kommentare anzeigen...</a>
+		</footer>
+		</article>
+		</body>
+	</html>

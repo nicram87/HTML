@@ -1,0 +1,31 @@
+<!doctype hmtl>
+	<html lang="de">
+		<head>
+			<title>Mein Blog</title>
+			<meta charset="UTF-8">
+		<body>
+		<h1>Mein Blog</h1>
+		<p>Ein Blog mit leckeren Rezepten...</p>
+		<p>Navigation:
+			<a href="#">Blog</a>	|	<a href="#">Rezepte</a>
+			<a hre="#">Über mich</a>	|	<a href="#">Impressum</a>
+		</p>
+			<h2>Alte Post</h2>
+			<ul>
+				<li><a href="#">Letzte Woche</a></li>
+				<li><a href="#">Archiv</a></li>
+			</ul>
+			<h2> Leckere Vannilesoße selbst gemacht</h2>
+			<p>Heute will ich euch zeigen, wie ihr eine leckere Vanillesoße im Handumdrehen selber herstellen könnt...</p>
+			<h3>Ähnliche Rezepte</h3>
+			<ul>
+				<li><a href="#">Schokoladensoße aus Kakao</a></li>
+				<li><a href="#">Vanillenpudding leicht gemacht</a></li>
+			</ul>
+		<p>
+			<a href="#">Kontakt</a>	|	<a href="#">FAQ</a>
+			<a href="#"Über mich</a>	|	<a href="#">Imressum</a>
+		</p>
+		</body>
+	</html>
+		
